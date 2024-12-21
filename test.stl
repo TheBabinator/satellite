@@ -1,0 +1,14 @@
+do
+    do
+        _CONSTANT = 10
+        local test1 = 2
+        local test2 = 5
+        THING = 7
+        test1 = 1000
+    end
+    do
+        print()
+        download(73)
+        add(5, 10, 15)
+    end
+end
